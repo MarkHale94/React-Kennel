@@ -1,0 +1,86 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Jill",
+      "breed": "Chicken Egg"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "breed": "small dog"
+    },
+    {
+      "id": 3,
+      "name": "Angus",
+      "breed": "medium fish"
+    },
+    {
+      "id": 4,
+      "name": "Henley",
+      "breed": "big bird"
+    },
+    {
+      "id": 5,
+      "name": "Derkins",
+      "breed": "tiny duck"
+    },
+    {
+      "id": 6,
+      "name": "Checkers",
+      "breed": "instinctive echidna"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Sarah",
+      "phoneNumber": 6151111111
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "phoneNumber": 6152222222
+    },
+    {
+      "id": 3,
+      "name": "Frank",
+      "phoneNumber": 615333333
+    },
+    {
+      "id": 4,
+      "name": "Jordan",
+      "phoneNumber": 6154444444
+    }
+  ]
+}

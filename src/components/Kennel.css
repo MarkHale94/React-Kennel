@@ -1,0 +1,34 @@
+.kennel {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.locations{
+    margin-top: 3em;
+}
+
+.animals{
+    margin-top: 3em;
+}
+
+.employees{
+    margin-top: 3em;
+}
+.owners{
+    display:flex;
+    margin-top: 3em;
+    justify-content: space-between;
+}
+.animal{
+    margin-top:3em;
+}
+.employee{
+    margin-top:3em;
+}
+.location{
+    margin-top:3em;
+}
+.owner{
+    margin-top:3em;
+}

@@ -3,7 +3,16 @@ import { Link } from "react-router-dom"
 
 export default class OwnerList extends Component {
     render() {
-        return (
+        return (<div>
+            <div className="ownerButton">
+                    <button type="button"
+                            className="btn btn-success"
+                            onClick={() => {
+                                this.props.history.push("/owners/new")}
+                            }>
+                        New Owner
+                    </button>
+                    </div>
             <section className="owners">
             {
                 this.props.owners.map(owner =>
@@ -24,6 +33,7 @@ export default class OwnerList extends Component {
                 )
             }
             </section>
+            </div>
         )
     }
 }

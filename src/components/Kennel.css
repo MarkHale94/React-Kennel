@@ -32,3 +32,27 @@
 .owner{
     margin-top:3em;
 }
+.animalButton {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3em 0 10px 0;
+}
+.employeeButton {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3em 0 10px 0;
+}
+.animalForm{
+    margin-top: 3em;
+}
+.employeeForm{
+    margin-top: 3em;
+}
+.ownerForm{
+    margin-top: 3em;
+}
+.ownerButton {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3em 0 10px 0;
+}

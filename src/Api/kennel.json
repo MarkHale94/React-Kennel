@@ -11,6 +11,14 @@
     {
       "name": "henry davis",
       "id": 3
+    },
+    {
+      "name": "blah blah",
+      "id": 4
+    },
+    {
+      "name": "hi there friendo",
+      "id": 5
     }
   ],
   "locations": [
@@ -55,6 +63,12 @@
       "id": 6,
       "name": "Checkers",
       "breed": "instinctive echidna"
+    },
+    {
+      "name": "bad boy",
+      "breed": "bad boys 2",
+      "employeeId": 5,
+      "id": 7
     }
   ],
   "owners": [
@@ -77,11 +91,6 @@
       "id": 4,
       "name": "Jordan",
       "phoneNumber": 6154444444
-    },
-    {
-      "name": "nnsandinoiqwn",
-      "phoneNumber": "2222222222",
-      "id": 5
     }
   ]
 }
